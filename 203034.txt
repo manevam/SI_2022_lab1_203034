@@ -1,0 +1,901 @@
+4. 
+PS D:\SI\SI_2022_lab1_203034> git clone https://github.com/manevam/SI_2022_lab1_203034.git
+git cd SI_2022_lab1_203034
+
+5.
+git add shopping_list.txt
+git commit -m "Add 5 items to the shop
+ping list"
+
+6.
+git add shopping_list.txt
+git commit -m "Add quantities to the i
+tems."
+
+7.
+git branch branch1
+git branch branch2
+
+8.
+git log
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (HEAD -> master, branch2, branch1)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+    Add quantities to the items.
+
+commit e3946d7daf1ba7464b40ef4b84d7a96d7b1c5d91 (origin/master, origin/HEAD)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:09:35 2022 +0200
+:...skipping...
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (HEAD -> master, branch2, branch1)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+    Add quantities to the items.
+
+commit e3946d7daf1ba7464b40ef4b84d7a96d7b1c5d91 (origin/master, origin/HEAD)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:09:35 2022 +0200
+
+    Add 5 items to the shopping list
+:...skipping...
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (HEAD -> master, branch2, branch1)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+    Add quantities to the items.
+
+commit e3946d7daf1ba7464b40ef4b84d7a96d7b1c5d91 (origin/master, origin/HEAD)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:09:35 2022 +0200
+
+    Add 5 items to the shopping list
+
+:...skipping...
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (HEAD -> master, branch2, branch1
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+    Add quantities to the items.
+
+commit e3946d7daf1ba7464b40ef4b84d7a96d7b1c5d91 (origin/master, origin/HEAD)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:09:35 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit b81f139df2cb9b78d62fcee2df538ac1b9e3d7bd
+:
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (HEAD -> master, branch2, branch1)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+    Add quantities to the items.
+
+commit e3946d7daf1ba7464b40ef4b84d7a96d7b1c5d91 (origin/master, origin/HEAD)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:09:35 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit b81f139df2cb9b78d62fcee2df538ac1b9e3d7bd
+Author: Marija Maneva <82393844+manevam@users.noreply.github.com>
+:...skipping...
+HEAD -> master, branch2, branch1)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+    Add quantities to the items.
+
+commit e3946d7daf1ba7464b40ef4b84d7a96d7b1c5d91 (origin/master, origin/HEAD)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:09:35 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit b81f139df2cb9b78d62fcee2df538ac1b9e3d7bd
+Author: Marija Maneva <82393844+manevam@users.noreply.github.com>
+Date:   Mon Apr 11 22:56:17 2022 +0200
+
+:...skipping...
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (HEAD -> master, branch2, branch1)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+    Add quantities to the items.
+
+commit e3946d7daf1ba7464b40ef4b84d7a96d7b1c5d91 (origin/master, origin/HEAD)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:09:35 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit b81f139df2cb9b78d62fcee2df538ac1b9e3d7bd
+Author: Marija Maneva <82393844+manevam@users.noreply.github.com>
+Date:   Mon Apr 11 22:56:17 2022 +0200
+
+    Update README.md
+:...skipping...
+HEAD -> master, branch2, branch1)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+    Add quantities to the items.
+
+commit e3946d7daf1ba7464b40ef4b84d7a96d7b1c5d91 (origin/master, origin/HEAD)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:09:35 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit b81f139df2cb9b78d62fcee2df538ac1b9e3d7bd
+Author: Marija Maneva <82393844+manevam@users.noreply.github.com>
+Date:   Mon Apr 11 22:56:17 2022 +0200
+
+    Update README.md
+
+:...skipping...
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (HEAD -> master, branch2, branch1)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+    Add quantities to the items.
+
+commit e3946d7daf1ba7464b40ef4b84d7a96d7b1c5d91 (origin/master, origin/HEAD)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:09:35 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit b81f139df2cb9b78d62fcee2df538ac1b9e3d7bd
+Author: Marija Maneva <82393844+manevam@users.noreply.github.com>
+Date:   Mon Apr 11 22:56:17 2022 +0200
+
+    Update README.md
+
+commit e823d7ffadd31faf25c94198a986acfc5207fb3e
+Author: Marija Maneva <82393844+manevam@users.noreply.github.com>
+Date:   Mon Apr 11 22:56:01 2022 +0200
+:...skipping...
+HEAD -> master, branch2, branch1)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+    Add quantities to the items.
+
+commit e3946d7daf1ba7464b40ef4b84d7a96d7b1c5d91 (origin/master, origin/HEAD)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:09:35 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit b81f139df2cb9b78d62fcee2df538ac1b9e3d7bd
+Author: Marija Maneva <82393844+manevam@users.noreply.github.com>
+Date:   Mon Apr 11 22:56:17 2022 +0200
+
+    Update README.md
+
+commit e823d7ffadd31faf25c94198a986acfc5207fb3e
+Author: Marija Maneva <82393844+manevam@users.noreply.github.com>
+Date:   Mon Apr 11 22:56:01 2022 +0200
+
+:...skipping...
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (HEAD -> master, branch2branch1)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+    Add quantities to the items.
+
+commit e3946d7daf1ba7464b40ef4b84d7a96d7b1c5d91 (origin/master, origin/HEAD)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:09:35 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit b81f139df2cb9b78d62fcee2df538ac1b9e3d7bd
+Author: Marija Maneva <82393844+manevam@users.noreply.github.com>
+Date:   Mon Apr 11 22:56:17 2022 +0200
+
+    Update README.md
+
+commit e823d7ffadd31faf25c94198a986acfc5207fb3e
+Author: Marija Maneva <82393844+manevam@users.noreply.github.com>
+Date:   Mon Apr 11 22:56:01 2022 +0200
+
+    Initial commit
+:...skipping...
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (HEAD -> master, branch2, branch1)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+    Add quantities to the items.
+
+commit e3946d7daf1ba7464b40ef4b84d7a96d7b1c5d91 (origin/master, origin/HEAD)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:09:35 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit b81f139df2cb9b78d62fcee2df538ac1b9e3d7bd
+Author: Marija Maneva <82393844+manevam@users.noreply.github.com>
+Date:   Mon Apr 11 22:56:17 2022 +0200
+
+    Update README.md
+
+commit e823d7ffadd31faf25c94198a986acfc5207fb3e
+Author: Marija Maneva <82393844+manevam@users.noreply.github.com>
+Date:   Mon Apr 11 22:56:01 2022 +0200
+
+    Initial commit
+~
+
+9.
+git push
+git push origin branch1
+git push origin branch2
+
+10.
+git checkout branch1
+
+11.
+git add shopping_list.txt
+PS D:\SI\SI_2022_lab1_203034\SI_2022_lab1_203034> git commit -m "Change quantity of item
+ #5"
+[branch1 33716fd] Change quantity of item #5
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+12.
+git checkout master
+
+13.
+git add shopping_list.txt
+PS D:\SI\SI_2022_lab1_203034\SI_2022_lab1_203034> git commit -m "Change quantity of item
+ #2"
+[master 3732782] Change quantity of item #2
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+14.
+git push
+git push origin branch1
+git push origin branch2
+
+15.
+git checkout branch2
+
+16.
+git add shopping_list.txt
+PS D:\SI\SI_2022_lab1_203034\SI_2022_lab1_203034> git commit -m "Modify item #4"
+[branch2 38909df] Modify item #4
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+17.
+git log
+commit 38909df0ae74ba6e71ddeaf7db15bcd1c27f03c6 (HEAD -> branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:20:53 2022 +0200
+
+    Modify item #4
+
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (origin/branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+:...skipping...
+commit 38909df0ae74ba6e71ddeaf7db15bcd1c27f03c6 (HEAD -> branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:20:53 2022 +0200
+
+    Modify item #4
+
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (origin/branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+:...skipping...
+commit 38909df0ae74ba6e71ddeaf7db15bcd1c27f03c6 (HEAD -> branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:20:53 2022 +0200
+
+    Modify item #4
+
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (origin/branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+    Add quantities to the items.
+:...skipping...
+commit 38909df0ae74ba6e71ddeaf7db15bcd1c27f03c6 (HEAD -> branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:20:53 2022 +0200
+
+    Modify item #4
+
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (origin/branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+    Add quantities to the items.
+
+commit e3946d7daf1ba7464b40ef4b84d7a96d7b1c5d91
+:...skipping...
+commit 38909df0ae74ba6e71ddeaf7db15bcd1c27f03c6 (HEAD -> branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:20:53 2022 +0200
+
+    Modify item #4
+
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (origin/branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+    Add quantities to the items.
+
+commit e3946d7daf1ba7464b40ef4b84d7a96d7b1c5d91
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:09:35 2022 +0200
+
+:
+commit 38909df0ae74ba6e71ddeaf7db15bcd1c27f03c6 (HEAD -> branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:20:53 2022 +0200
+
+    Modify item #4
+
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (origin/branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+    Add quantities to the items.
+
+commit e3946d7daf1ba7464b40ef4b84d7a96d7b1c5d91
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:09:35 2022 +0200
+
+    Add 5 items to the shopping list
+
+:...skipping...
+commit 38909df0ae74ba6e71ddeaf7db15bcd1c27f03c6 (HEAD -> branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:20:53 2022 +0200
+
+    Modify item #4
+
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (origin/branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+    Add quantities to the items.
+
+commit e3946d7daf1ba7464b40ef4b84d7a96d7b1c5d91
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:09:35 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit b81f139df2cb9b78d62fcee2df538ac1b9e3d7bd
+...skipping...
+commit 38909df0ae74ba6e71ddeaf7db15bcd1c27f03c6 (HEAD -> branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:20:53 2022 +0200
+
+    Modify item #4
+
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (origin/branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+    Add quantities to the items.
+
+commit e3946d7daf1ba7464b40ef4b84d7a96d7b1c5d91
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:09:35 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit b81f139df2cb9b78d62fcee2df538ac1b9e3d7bd
+Author: Marija Maneva <82393844+manevam@users.noreply.github.com>
+Date:   Mon Apr 11 22:56:17 2022 +0200
+
+ ...skipping...
+commit 38909df0ae74ba6e71ddeaf7db15bcd1c27f03c6 (HEAD -> branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:20:53 2022 +0200
+
+    Modify item #4
+
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (origin/branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+    Add quantities to the items.
+
+commit e3946d7daf1ba7464b40ef4b84d7a96d7b1c5d91
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:09:35 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit b81f139df2cb9b78d62fcee2df538ac1b9e3d7bd
+Author: Marija Maneva <82393844+manevam@users.noreply.github.com>
+Date:   Mon Apr 11 22:56:17 2022 +0200
+
+    Update README.md
+:...skipping...
+                                               HEAD -> branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:20:53 2022 +0200
+
+    Modify item #4
+
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (origin/branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+    Add quantities to the items.
+
+commit e3946d7daf1ba7464b40ef4b84d7a96d7b1c5d91
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:09:35 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit b81f139df2cb9b78d62fcee2df538ac1b9e3d7bd
+Author: Marija Maneva <82393844+manevam@users.noreply.github.com>
+Date:   Mon Apr 11 22:56:17 2022 +0200
+
+    Update README.md
+
+:...skipping...
+commit 38909df0ae74ba6e71ddeaf7db15bcd1c27f03c6 (HEAD -> branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:20:53 2022 +0200
+
+    Modify item #4
+
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (origin/branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+    Add quantities to the items.
+
+commit e3946d7daf1ba7464b40ef4b84d7a96d7b1c5d91
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:09:35 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit b81f139df2cb9b78d62fcee2df538ac1b9e3d7bd
+Author: Marija Maneva <82393844+manevam@users.noreply.github.com>
+Date:   Mon Apr 11 22:56:17 2022 +0200
+
+    Update README.md
+
+commit e823d7ffadd31faf25c94198a986acfc5207fb3e
+Author: Marija Maneva <82393844+manevam@users.noreply.github.com>
+:...skipping...
+commit 38909df0ae74ba6e71ddeaf7db15bcd1c27f03c6 (HEAD -> branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:20:53 2022 +0200
+
+    Modify item #4
+
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (origin/branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+    Add quantities to the items.
+
+commit e3946d7daf1ba7464b40ef4b84d7a96d7b1c5d91
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:09:35 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit b81f139df2cb9b78d62fcee2df538ac1b9e3d7bd
+Author: Marija Maneva <82393844+manevam@users.noreply.github.com>
+Date:   Mon Apr 11 22:56:17 2022 +0200
+
+    Update README.md
+
+commit e823d7ffadd31faf25c94198a986acfc5207fb3e
+Author: Marija Maneva <82393844+manevam@users.noreply.github.com>
+Date:   Mon Apr 11 22:56:01 2022 +0200
+:...skipping...
+commit 38909df0ae74ba6e71ddeaf7db15bcd1c27f03c6 (HEAD -> branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:20:53 2022 +0200
+
+    Modify item #4
+
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (origin/branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+    Add quantities to the items.
+
+commit e3946d7daf1ba7464b40ef4b84d7a96d7b1c5d91
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:09:35 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit b81f139df2cb9b78d62fcee2df538ac1b9e3d7bd
+Author: Marija Maneva <82393844+manevam@users.noreply.github.com>
+Date:   Mon Apr 11 22:56:17 2022 +0200
+
+    Update README.md
+
+commit e823d7ffadd31faf25c94198a986acfc5207fb3e
+Author: Marija Maneva <82393844+manevam@users.noreply.github.com>
+Date:   Mon Apr 11 22:56:01 2022 +0200
+
+:...skipping...
+commit 38909df0ae74ba6e71ddeaf7db15bcd1c27f03c6 (HEAD -> branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:20:53 2022 +0200
+
+    Modify item #4
+
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (origin/branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+    Add quantities to the items.
+
+commit e3946d7daf1ba7464b40ef4b84d7a96d7b1c5d91
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:09:35 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit b81f139df2cb9b78d62fcee2df538ac1b9e3d7bd
+Author: Marija Maneva <82393844+manevam@users.noreply.github.com>
+Date:   Mon Apr 11 22:56:17 2022 +0200
+
+    Update README.md
+
+commit e823d7ffadd31faf25c94198a986acfc5207fb3e
+Author: Marija Maneva <82393844+manevam@users.noreply.github.com>
+Date:   Mon Apr 11 22:56:01 2022 +0200
+
+    Initial commit
+:
+
+18.
+git add shopping_list.txt
+PS D:\SI\SI_2022_lab1_203034\SI_2022_lab1_203034> git commit --amend -m " and add item #
+6"
+[branch2 af5d153]  and add item #6
+ Date: Mon Apr 11 23:20:53 2022 +0200
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+
+19.
+git log
+commit 38909df0ae74ba6e71ddeaf7db15bcd1c27f03c6 (HEAD -> branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:20:53 2022 +0200
+
+    Modify item #4
+
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (origin/branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+:...skipping...
+commit 38909df0ae74ba6e71ddeaf7db15bcd1c27f03c6 (HEAD -> branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:20:53 2022 +0200
+
+    Modify item #4
+
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (origin/branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+:...skipping...
+commit 38909df0ae74ba6e71ddeaf7db15bcd1c27f03c6 (HEAD -> branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:20:53 2022 +0200
+
+    Modify item #4
+
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (origin/branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+    Add quantities to the items.
+:...skipping...
+commit 38909df0ae74ba6e71ddeaf7db15bcd1c27f03c6 (HEAD -> branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:20:53 2022 +0200
+
+    Modify item #4
+
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (origin/branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+    Add quantities to the items.
+
+commit e3946d7daf1ba7464b40ef4b84d7a96d7b1c5d91
+:...skipping...
+commit 38909df0ae74ba6e71ddeaf7db15bcd1c27f03c6 (HEAD -> branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:20:53 2022 +0200
+
+    Modify item #4
+
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (origin/branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+    Add quantities to the items.
+
+commit e3946d7daf1ba7464b40ef4b84d7a96d7b1c5d91
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:09:35 2022 +0200
+
+:
+commit 38909df0ae74ba6e71ddeaf7db15bcd1c27f03c6 (HEAD -> branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:20:53 2022 +0200
+
+    Modify item #4
+
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (origin/branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+    Add quantities to the items.
+
+commit e3946d7daf1ba7464b40ef4b84d7a96d7b1c5d91
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:09:35 2022 +0200
+
+    Add 5 items to the shopping list
+
+:...skipping...
+commit 38909df0ae74ba6e71ddeaf7db15bcd1c27f03c6 (HEAD -> branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:20:53 2022 +0200
+
+    Modify item #4
+
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (origin/branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+    Add quantities to the items.
+
+commit e3946d7daf1ba7464b40ef4b84d7a96d7b1c5d91
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:09:35 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit b81f139df2cb9b78d62fcee2df538ac1b9e3d7bd
+...skipping...
+commit 38909df0ae74ba6e71ddeaf7db15bcd1c27f03c6 (HEAD -> branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:20:53 2022 +0200
+
+    Modify item #4
+
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (origin/branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+    Add quantities to the items.
+
+commit e3946d7daf1ba7464b40ef4b84d7a96d7b1c5d91
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:09:35 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit b81f139df2cb9b78d62fcee2df538ac1b9e3d7bd
+Author: Marija Maneva <82393844+manevam@users.noreply.github.com>
+Date:   Mon Apr 11 22:56:17 2022 +0200
+
+ ...skipping...
+commit 38909df0ae74ba6e71ddeaf7db15bcd1c27f03c6 (HEAD -> branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:20:53 2022 +0200
+
+    Modify item #4
+
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (origin/branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+    Add quantities to the items.
+
+commit e3946d7daf1ba7464b40ef4b84d7a96d7b1c5d91
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:09:35 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit b81f139df2cb9b78d62fcee2df538ac1b9e3d7bd
+Author: Marija Maneva <82393844+manevam@users.noreply.github.com>
+Date:   Mon Apr 11 22:56:17 2022 +0200
+
+    Update README.md
+:...skipping...
+                                               HEAD -> branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:20:53 2022 +0200
+
+    Modify item #4
+
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (origin/branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+    Add quantities to the items.
+
+commit e3946d7daf1ba7464b40ef4b84d7a96d7b1c5d91
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:09:35 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit b81f139df2cb9b78d62fcee2df538ac1b9e3d7bd
+Author: Marija Maneva <82393844+manevam@users.noreply.github.com>
+Date:   Mon Apr 11 22:56:17 2022 +0200
+
+    Update README.md
+
+:...skipping...
+commit 38909df0ae74ba6e71ddeaf7db15bcd1c27f03c6 (HEAD -> branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:20:53 2022 +0200
+
+    Modify item #4
+
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (origin/branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+    Add quantities to the items.
+
+commit e3946d7daf1ba7464b40ef4b84d7a96d7b1c5d91
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:09:35 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit b81f139df2cb9b78d62fcee2df538ac1b9e3d7bd
+Author: Marija Maneva <82393844+manevam@users.noreply.github.com>
+Date:   Mon Apr 11 22:56:17 2022 +0200
+
+    Update README.md
+
+commit e823d7ffadd31faf25c94198a986acfc5207fb3e
+Author: Marija Maneva <82393844+manevam@users.noreply.github.com>
+:...skipping...
+commit 38909df0ae74ba6e71ddeaf7db15bcd1c27f03c6 (HEAD -> branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:20:53 2022 +0200
+
+    Modify item #4
+
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (origin/branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+    Add quantities to the items.
+
+commit e3946d7daf1ba7464b40ef4b84d7a96d7b1c5d91
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:09:35 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit b81f139df2cb9b78d62fcee2df538ac1b9e3d7bd
+Author: Marija Maneva <82393844+manevam@users.noreply.github.com>
+Date:   Mon Apr 11 22:56:17 2022 +0200
+
+    Update README.md
+
+commit e823d7ffadd31faf25c94198a986acfc5207fb3e
+Author: Marija Maneva <82393844+manevam@users.noreply.github.com>
+Date:   Mon Apr 11 22:56:01 2022 +0200
+:...skipping...
+commit 38909df0ae74ba6e71ddeaf7db15bcd1c27f03c6 (HEAD -> branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:20:53 2022 +0200
+
+    Modify item #4
+
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (origin/branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+    Add quantities to the items.
+
+commit e3946d7daf1ba7464b40ef4b84d7a96d7b1c5d91
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:09:35 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit b81f139df2cb9b78d62fcee2df538ac1b9e3d7bd
+Author: Marija Maneva <82393844+manevam@users.noreply.github.com>
+Date:   Mon Apr 11 22:56:17 2022 +0200
+
+    Update README.md
+
+commit e823d7ffadd31faf25c94198a986acfc5207fb3e
+Author: Marija Maneva <82393844+manevam@users.noreply.github.com>
+Date:   Mon Apr 11 22:56:01 2022 +0200
+
+:...skipping...
+commit 38909df0ae74ba6e71ddeaf7db15bcd1c27f03c6 (HEAD -> branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:20:53 2022 +0200
+
+    Modify item #4
+
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (origin/branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+    Add quantities to the items.
+
+commit e3946d7daf1ba7464b40ef4b84d7a96d7b1c5d91
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:09:35 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit b81f139df2cb9b78d62fcee2df538ac1b9e3d7bd
+Author: Marija Maneva <82393844+manevam@users.noreply.github.com>
+Date:   Mon Apr 11 22:56:17 2022 +0200
+
+    Update README.md
+
+commit e823d7ffadd31faf25c94198a986acfc5207fb3e
+Author: Marija Maneva <82393844+manevam@users.noreply.github.com>
+Date:   Mon Apr 11 22:56:01 2022 +0200
+
+    Initial commit
+PS D:\SI\SI_2022_lab1_203034\SI_2022_lab1_203034>
+PS D:\SI\SI_2022_lab1_203034\SI_2022_lab1_203034> git add shopping_list.txt
+PS D:\SI\SI_2022_lab1_203034\SI_2022_lab1_203034> git commit --amend -m " and add item #
+6"
+[branch2 af5d153]  and add item #6
+ Date: Mon Apr 11 23:20:53 2022 +0200
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+PS D:\SI\SI_2022_lab1_203034\SI_2022_lab1_203034> git log
+commit af5d1533db3b56d371a765691a99fbc013e1f29d (HEAD -> branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:20:53 2022 +0200
+
+     and add item #6
+
+commit dd513b12ac0de298d0ad864d1c302d3c4255ed88 (origin/branch2)
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:12:36 2022 +0200
+
+    Add quantities to the items.
+
+commit e3946d7daf1ba7464b40ef4b84d7a96d7b1c5d91
+Author: manevam <maneva.marija.m@gmail.com>
+Date:   Mon Apr 11 23:09:35 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit b81f139df2cb9b78d62fcee2df538ac1b9e3d7bd
+Author: Marija Maneva <82393844+manevam@users.noreply.github.com>
+Date:   Mon Apr 11 22:56:17 2022 +0200
+
+    Update README.md
+
+commit e823d7ffadd31faf25c94198a986acfc5207fb3e
+Author: Marija Maneva <82393844+manevam@users.noreply.github.com>
+Date:   Mon Apr 11 22:56:01 2022 +0200
+
+    Initial commit
+
+20.
+
