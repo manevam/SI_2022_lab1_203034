@@ -1,5 +1,11 @@
 Zelka x1
 Morkov x4
 Jajca x2
+<<<<<<< HEAD
 Portokali x3
 Jagodi x5
+=======
+Mandarini x3
+Jagodi x4
+Цвекло x1
+>>>>>>> branch2
