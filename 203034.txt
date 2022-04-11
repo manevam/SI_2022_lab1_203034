@@ -898,4 +898,30 @@ Date:   Mon Apr 11 22:56:01 2022 +0200
     Initial commit
 
 20.
+git merge branch1
+Auto-merging shopping_list.txt
+Merge made by the 'recursive' strategy.
+ shopping_list.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
 
+21.
+PS D:\SI\SI_2022_lab1_203034\SI_2022_lab1_203034> git rebase branch2
+shopping_list.txt: needs merge
+error: cannot rebase: You have unstaged changes.
+error: additionally, your index contains uncommitted changes.
+error: Please commit or stash them.
+PS D:\SI\SI_2022_lab1_203034\SI_2022_lab1_203034> git add shopping_list.txt
+PS D:\SI\SI_2022_lab1_203034\SI_2022_lab1_203034> git rebase --continue
+fatal: No rebase in progress?
+PS D:\SI\SI_2022_lab1_203034\SI_2022_lab1_203034> git merge branch2
+fatal: You have not concluded your merge (MERGE_HEAD exists).
+Please, commit your changes before you merge.
+PS D:\SI\SI_2022_lab1_203034\SI_2022_lab1_203034> git commit -m "changes"
+[master 14c29c6] changes
+PS D:\SI\SI_2022_lab1_203034\SI_2022_lab1_203034> git merge branch2
+Already up to date.
+
+22.
+git push
+git push origin branch1
+git push origin branch2
